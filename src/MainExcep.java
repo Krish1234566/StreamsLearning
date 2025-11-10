@@ -57,6 +57,7 @@ public class MainExcep {
         System.out.println("Second thread state: "+thread2.getName()+" "+thread2.getState()+" "+thread2.getPriority());
 
 
+        System.out.println("Second thread state: "+thread2.getName()+" "+thread2.getState()+" "+thread2.getPriority());
 
     }
 }
